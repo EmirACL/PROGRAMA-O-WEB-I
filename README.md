@@ -1,5 +1,3 @@
-# PROGRAMA-O-WEB-I
-Repositório destinado a atividades da disciplina de programação web I
 HTNL
 # Minha primeira página Web
 Nome: Seu nome
