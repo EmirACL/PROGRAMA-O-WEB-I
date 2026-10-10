@@ -1,4 +1,4 @@
-HTNL
+HTML
 # Minha primeira página Web
 Nome: Seu nome
 ## Sobre a atividade
